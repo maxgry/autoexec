@@ -30,5 +30,7 @@ Mouse and Keyboard binds:
 
     `Steam -> Profile -> Inventory -> Trade Offers -> Who can send me Trade Offers? -> https://steamcommunity.com/tradeoffer/new/?partner=<Your Steam AccountID>&token=yomoma`
 
+     `wget https://raw.githubusercontent.com/maxgry/autoexec/main/autoexec.cfg`
+
 > [!WARNING]
 > lul
