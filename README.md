@@ -1,8 +1,23 @@
 # maxgry's CS:GO & CS2 autoexec
 
-Mouse and Keyboard binds: 
-![Keybinds](https://raw.githubusercontent.com/maxgry/autoexec/main/csgo_keys.png)
+
+## CS2
+### Mouse and Keyboard binds: 
+![CS2 Keybinds](https://raw.githubusercontent.com/maxgry/autoexec/main/cs2_keys.png)
+
+### Buyscript Example:
+![CS2 Buyscript Example](https://raw.githubusercontent.com/maxgry/autoexec/main/cs2_buyscript_example.png)
+(very paint)
+
+[🡒 CS2 autoexec](autoexec.cfg)
+
+## CS:GO
+### Mouse and Keyboard binds: 
+![CS:GO Keybinds](https://raw.githubusercontent.com/maxgry/autoexec/main/csgo_keys.png)
 (very fine)
+
+[🡒 CS:GO autoexec](csgo_autoexec.cfg)
+
 
 ## Setup
 
